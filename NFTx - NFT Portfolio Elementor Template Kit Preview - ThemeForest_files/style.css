@@ -1,0 +1,11 @@
+.contact-logo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.contact-logo:hover {
+    scale: 102%;
+
+   
+}
